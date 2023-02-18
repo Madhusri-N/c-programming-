@@ -1,0 +1,15 @@
+#include<stdio.h>
+#include<math.h>
+int main()
+{
+int x,y,result;
+scanf("%d%d",&x,&y);
+result = pow(x,y);
+printf("%d",result);
+return(o);
+}
+
+
+output:
+ 5 3
+ 125
