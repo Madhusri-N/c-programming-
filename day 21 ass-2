@@ -1,0 +1,25 @@
+#include<stdi.h>
+int main()
+{
+int s,e,i;
+scanf("%d",&s):
+scanf("%d",&e);
+for(i=s;i<=e;i++)
+{
+if(n%i==1)
+{
+c++;
+if(c==3)
+{
+c=0;
+continue;
+}
+printf("%d ",i);
+}
+}
+}
+
+ output:
+    10
+    20
+    11 13 17 19
