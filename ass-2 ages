@@ -1,0 +1,37 @@
+
+#include <stdio.h>
+
+
+int main() {
+    int i,t,n;
+    printf("enter num of test cases:");
+    scanf("%d",&t);
+    for(i=1;i<=t;i++)
+    {
+        printf("\n%d.enter age:",i);
+        scanf("%d",&n);
+        if(n<=4)
+        printf("child age");
+        else if(n<=17)
+        printf("school age");
+        else if(n<=30)
+        printf("young age");
+        else 
+        printf("old age");
+    }
+
+    return 0;
+}
+ 
+ 
+ o/p : enter num of test cases:5
+1.enter age:15
+school age
+2.enter age:67
+old age
+3.enter age:4
+child age
+4.enter age:89
+old age
+5.enter age:32
+old age
