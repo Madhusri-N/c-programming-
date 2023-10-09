@@ -1,0 +1,17 @@
+
+>>> print("My name is madhusri")
+My name is madhusri
+>>> print("My father nater is Naidu")
+My father nater is Naidu
+>>> print("My mother name is Bhavani")
+My mother name is Bhavani
+>>> print("I am studying in 2nd mpcs")
+I am studying in 2nd mpcs
+>>> print("I am interested in doing coding")
+I am interested in doing coding
+>>> print("My hobbies are watching facts,readings books,listening music")
+My hobbies are watching facts,readings books,listening music
+>>> print("My favourite colour is blue")
+My favourite colour is blue
+>>>
+
