@@ -1,0 +1,8 @@
+ a=200
+>>> b=300
+>>> print('before swapping a is',a,'b is',b)
+before swapping a is 200 b is 300
+>>> a,b=b,a
+>>> print('after swapping a is',a,'b is',b)
+after swapping a is 300 b is 200
+>>>
