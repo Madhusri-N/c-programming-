@@ -1,0 +1,20 @@
+student_no=int(input())
+student_name=input()
+group=input()
+maths_marks=int(input("enter maths marks"))
+hindi_marks=int(input("enter hindi marks"))
+computer_marks=int(input("enter computer marks"))
+total=maths_marks+hindi_marks+computer_marks
+print(total)
+avg=total/3
+print(avg)
+
+
+output:01
+madhusri
+mpcs
+enter maths marks 70
+enter hindi marks 80
+enter computer marks 60
+total=210
+avg=70.0
