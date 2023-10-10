@@ -1,0 +1,13 @@
+principle_amount=int(input())
+time=int(input())
+rate_of_interest=int(input())
+no_of_months=12*time
+si=principle_amount*time*rate_of_interest/100
+emi=si+principle_amount/no_of_months
+print(emi)
+
+
+output:10000
+2
+8
+2016.666666667
